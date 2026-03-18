@@ -74,22 +74,6 @@ Example of predicted ratings for a user, demonstrating the model’s ability to 
 
 ---
 
-## Visualizations
-
-### Rating Distribution
-
-Distribution of movie ratings across the dataset, showing a concentration in the mid-to-high range.
-
-![Ratings Distribution](ratings_distribution.png)
-
----
-
-### Sample Recommendations
-
-Example of predicted ratings for a user, demonstrating the model’s ability to rank and recommend movies based on learned preferences.
-
-![Recommended Movies](recommendation.png)
-
 ## Future Work
 
 - Improve recommendation accuracy using collaborative filtering  
