@@ -38,7 +38,7 @@ Due to size limitations, the dataset is not included in this repository.
 
 ## Repository Contents
 
-- `notebooks/` — Jupyter notebook containing full analysis and model  
+- `Collab/` — Google Collab containing full analysis and model  
 - `data/` — placeholder for dataset (not included)  
 - `outputs/` — visualizations and results  
 
@@ -56,6 +56,22 @@ The model can identify similar movies and generate recommendations based on user
 - Google Collab  
 
 ---
+
+## Visualizations
+
+### Rating Distribution
+
+Distribution of movie ratings across the dataset, showing a concentration in the mid-to-high range.
+
+![Ratings Distribution](ratings_distribution.png)
+
+---
+
+### Sample Recommendations
+
+Example of predicted ratings for a user, demonstrating the model’s ability to rank and recommend movies based on learned preferences.
+
+![Recommended Movies](recommendation.png)
 
 ## Future Work
 
